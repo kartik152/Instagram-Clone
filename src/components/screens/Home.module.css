@@ -1,0 +1,22 @@
+.home_card{
+    max-width: 500px;
+    height: max-content;
+    margin: auto;
+}
+
+.headline{
+    margin: 10px 0px 10px 0px;
+}
+
+.headline h1, .headline p {
+    display: inline;
+    vertical-align: top;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 28px;  
+}
+.headline h1 {
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: 24px;
+}

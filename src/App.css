@@ -1,0 +1,40 @@
+a{
+  color: black !important;
+}
+
+.brand-logo{
+  font-family: 'Grand Hotel', cursive;
+}
+
+.mycard{
+  margin: 30px;
+}
+
+.auth-card{
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid rgb(8, 93, 253) !important;
+  box-shadow: 0 1px 0 0 rgb(8, 93, 253) !important;
+
+}
+
+#toast{
+  top: 30px !important;
+  right: 20px !important;
+  left: auto !important;
+}
+
+.home_card{
+  max-width: 500px;
+  height: max-content;
+  margin: auto;
+}
+
+button{
+  margin: 10px;
+}
